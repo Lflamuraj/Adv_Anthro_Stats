@@ -1,0 +1,22 @@
+Family,LF_Idno,Genus,Specis ,Phyloname,Clade,CB1,CB5,Man,Clad
+Amiidae,95,Amia,Amia Calva,Amia_calva,Primative,5.5,2,6.3,A
+Amiidae,96,Amia,Amia Calva,Amia_calva,Primative,5,2,6.2,A
+Amiidae,97,Amia,Amia Calva,Amia_calva,Primative,5,1.5,5.2,A
+Amiidae,98,Amia,Amia Calva,Amia_calva,Primative,3.4,2,6.6,A
+Amiidae,99,Amia,Amia Calva,Amia_calva,Primative,6,2.5,6.8,A
+Amiidae,100,Amia,Amia Calva,Amia_calva,Primative,6.5,3.8,8,A
+Anguillidae,107,anguilla,rostrata,Anguilla_rostrata,Primative,1.5,1.1,3,A
+Aramimidae,110,arapaima,gigas,Arapaima_gigas,Primative,6,10,17,A
+Elopidae,111,elops,saurus,Elops_saurus,Primative,5,2.3,5.7,A
+Hiodontidae,103,Hiodon,tergisus,Hiodon_alosoides,Primative,1.2,1,2.2,A
+Lepisosteidae,93,Lepisosteus,osseus,Lepisosteus_osseus,Primative,3,2,9.5,A
+Lepisosteidae,94,Lepisosteus,occulatus,Lepisosteus_oculatus,Primative,3.3,1.4,9,A
+Megalopidae,104,megalops,atlanticus,Megalops_atlanticus,Primative,5,2.3,5.8,A
+Muraenidae,108,gymnothorax,kolpos,Gymnothorax_moringa,Primative,3,3.9,6.9,A
+Ophichthanidae,105,ophichthus,gomesii,Ophichthus_gomesii,Primative,1.3,0.8,2,A
+Ophichthidae,109,echiophis,punctifer,Echiophis_punctifer,Primative,1.5,1.7,5.5,A
+Ophichthidae,112,ophichthus,rex,Ophichthus_rex,Primative,2.5,2,6.7,A
+Osteoglossidae,106,osteoglossum,bicirrhosum,Osteoglossum_bicirrhosum,Primative,3,1.4,5.5,A
+Osteoglossidae,113,scleropages,formosus,Scleropages_formosus,Primative,3.5,2,6.2,A
+Polyodontidae,101,polyodon,spathula,Polyodon_spathula,Primative,4.5,4,6,A
+Polyodontidae,102,polyodon,spathula,Polyodon_spathula,Primative,13.5,7,15.5,A

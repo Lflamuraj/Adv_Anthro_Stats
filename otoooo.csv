@@ -1,0 +1,17 @@
+Family,LF_Idno,Genus,Specis ,Phyloname,Clade,CB1,CB5,Man,Clad
+Ariidae,114,ariopsis,felis,Ariopsis_felis,Otocephala,2.5,2,3.2,B
+Ariidae,119,bagre,marinus,Bagre_marinus,Otocephala,6,5,6.5,B
+Catostomidae,125,catostomus,commersonii,Catostomus_commersonii,Otocephala,2.7,2.2,2.2,B
+Catostomidae,120,ictiobus,bubalus,Ictiobus_bubalus,Otocephala,2,1.5,2.2,B
+Catostomidae,121,moxostoma,erythrurum,Moxostoma_erythrurum,Otocephala,2.5,2.5,2,B
+Characidae,116,serrasalmus,-,Serrasalmus_elongatus,Otocephala,2.5,1.2,2.8,B
+Clupeidae,122,alosa,sapielissima,Alosa_sapidissima,Otocephala,4.5,1.7,5.2,B
+Clupeidae,118,brevoortia,smithi,Brevoortia_patronus,Otocephala,2,1.7,2.7,B
+Curimatidae,115,pacu,-,Myloplus_planquettei,Otocephala,1.5,1.5,1.8,B
+Cyprinidae,124,aristichthys,nobilis,Hypophthalmichthys_nobilis,Otocephala,6.5,3.5,5,B
+Cyprinidae,123,cyprinus,carpio,Cyprinus_carpio_carpio,Otocephala,5.5,5.5,3.7,B
+Electrophoridae,129,electrophorus,electricus,Electrophorus_electricus,Otocephala,3,2.2,4.5,B
+Ictaluridae,128,Ictalurus,nebulosus,Ameiurus_nebulosus,Otocephala,0.8,0.4,1.3,B
+Ictaluridae,126,pylodictis,olivaris,Pylodictis_olivaris,Otocephala,2.8,1.8,3.4,B
+Ictalurus,127,punctatus,rafinesque,Ictalurus_punctatus,Otocephala,7,3.5,8.5,B
+Loricariidae,117,hypostomus,-,Hypostomus_ancistroides,Otocephala,1.5,1.4,1.2,B

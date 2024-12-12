@@ -1,0 +1,13 @@
+Family,LF_Idno,Genus,Specis ,Phyloname,Clade,CB1,CB5,Man,Clad
+Antennariidae,89,histrio,histrio,Antennarius_striatus,Euteleosts,0.9,0.5,2,C
+Batrachoididae,91,opsanus,pardus,Opsanus_pardus,Euteleosts,4.5,2.1,6.4,C
+Belonidae,88,tylosurus,crocodilus,Tylosurus_crocodilus_crocodilus,Euteleosts,2.1,1.2,9.5,C
+Esocidae,87,esox,lucius,Esox_lucius,Euteleosts,11.5,4.4,14.5,C
+Lophiidae,92,lophins,americanus,Lophius_americanus,Euteleosts,8.7,6,15.5,C
+Ophidiidae,90,brotula,barbata,Brotula_barbata,Euteleosts,6.5,2.7,6.5,C
+Salmodiae,84,-,-,Oncorhynchus_kisutch,Euteleosts,5.8,3.5,9.5,C
+Salmodiae,86,Oncorhynchus,mykiss,Oncorhynchus_mykiss,Euteleosts,5.5,3.2,9,C
+Salmodiae,85,salmo,salar,Salmo_salar,Euteleosts,2.2,2,4.8,C
+Sebastidae,83,sebastes,norvegicus,Sebastes_norvegicus,Euteleosts,3,1.7,3.5,C
+Triglidae,82,prionotus,rubio,Prionotus_scitulus,Euteleosts,3,2.4,3.4,C
+Triglidae,81,prionotus,tribulus,Prionotus_scitulus,Euteleosts,2.9,1.9,4.3,C
